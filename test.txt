@@ -1,3 +1,6 @@
 ¡Hola!
 
 Vamos a probar el manejo de versiones
+
+Cambio 1
+Cambio 2
