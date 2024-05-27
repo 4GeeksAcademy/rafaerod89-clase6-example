@@ -3,4 +3,9 @@
 Vamos a probar el manejo de versiones
 
 Cambio 1
+Cambio 1.1
 Cambio 2
+Cambio 2.1
+
+Cambio de Jackie
+Cambio Rafael
